@@ -1,9 +1,6 @@
 # Key-Logger
-A simple Key Logger (For Science purposes only :wink)
 
-# Keylogger (For Educational Purposes Only)
-
-This is a basic keylogger written in Python, created for educational and ethical hacking practice purposes only.
+This is a basic keylogger written in Python, created for educational and ethical hacking practice purposes only (:wink).
 
 > ⚠️ Disclaimer: This project is intended for **educational use only**. Do not use it to monitor or log information from others without their knowledge and consent.
 
