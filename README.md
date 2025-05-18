@@ -15,3 +15,12 @@ This is a basic keylogger written in Python, created for educational and ethical
 Install dependencies:
 ```bash
 pip install pynput
+
+USAGE:
+  python keylogger.py
+
+To create Executable file:
+  1) Open Command Prompt
+  2) Use the given code
+        pyinstaller --onefile keylogger.spec
+
